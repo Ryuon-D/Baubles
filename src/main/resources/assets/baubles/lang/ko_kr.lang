@@ -3,7 +3,17 @@
 item.Ring.0.name=광부의 반지
 #
 # GUI
-button.baubles=버블즈
-button.normal=노멀
+button.baubles=장신구
+button.normal=일반
+#
 # Keybinding
-keybind.baublesinventory=버블즈 인벤토리
+keybind.baublesinventory=장신구 인벤토리
+#
+# Description
+name.AMULET=장신구 (부적)
+name.RING=장신구 (반지)
+name.BELT=장신구 (벨트)
+name.TRINKET=장신구 (모든 부위)
+name.HEAD=장신구 (머리)
+name.BODY=장신구 (몸)
+name.CHARM=장신구 (장식)
